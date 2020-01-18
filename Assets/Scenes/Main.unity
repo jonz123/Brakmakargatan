@@ -628,6 +628,22 @@ PrefabInstance:
       propertyPath: m_Constraints
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 70729077274814584, guid: 7fd0f975ca319364e9f2385804e5c03b,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 70729077274814584, guid: 7fd0f975ca319364e9f2385804e5c03b,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 95507643937904492, guid: 7fd0f975ca319364e9f2385804e5c03b,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: 9908a71a81ff9c747a64630d89d9c31f,
+        type: 2}
     - target: {fileID: 114657121343748414, guid: 7fd0f975ca319364e9f2385804e5c03b,
         type: 3}
       propertyPath: controlPrefix
@@ -643,6 +659,12 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 212433907663164432, guid: 7fd0f975ca319364e9f2385804e5c03b,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eebaea3ccd8084b4faeb96255a7dcf33,
+        type: 3}
     - target: {fileID: 2873020845636030208, guid: 7fd0f975ca319364e9f2385804e5c03b,
         type: 3}
       propertyPath: healthMonitors.Array.size
@@ -1205,6 +1227,12 @@ PrefabInstance:
       propertyPath: m_FlipX
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 212433907663164432, guid: 7fd0f975ca319364e9f2385804e5c03b,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eebaea3ccd8084b4faeb96255a7dcf33,
+        type: 3}
     - target: {fileID: 2873020845636030208, guid: 7fd0f975ca319364e9f2385804e5c03b,
         type: 3}
       propertyPath: healthMonitors.Array.size
