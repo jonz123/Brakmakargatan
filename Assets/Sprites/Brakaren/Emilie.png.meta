@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: f8510bff93d92cc48996e62138224a8c
+guid: 171a7f1e3cde4e245be5362b9da7b165
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Jacob_0
-    21300002: Jacob_1
-    21300004: Jacob_2
-    21300006: Jacob_3
-    21300008: Jacob_4
-    21300010: Jacob_5
-    21300012: Jacob_6
-    21300014: Jacob_7
-    21300016: Jacob_8
-    21300018: Jacob_9
-    21300020: Jacob_10
-    21300022: Jacob_11
-    21300024: Jacob_12
-    21300026: Jacob_13
-    21300028: Jacob_14
-    21300030: Jacob_15
-    21300032: Jacob_16
-    21300034: Jacob_17
-    21300036: Jacob_18
-    21300038: Jacob_19
-    21300040: Jacob_20
+    21300000: Emilie_0
+    21300002: Emilie_1
+    21300004: Emilie_2
+    21300006: Emilie_3
+    21300008: Emilie_4
+    21300010: Emilie_5
+    21300012: Emilie_6
+    21300014: Emilie_7
+    21300016: Emilie_8
+    21300018: Emilie_9
+    21300020: Emilie_10
+    21300022: Emilie_11
+    21300024: Emilie_12
+    21300026: Emilie_13
+    21300028: Emilie_14
+    21300030: Emilie_15
+    21300032: Emilie_16
+    21300034: Emilie_17
+    21300036: Emilie_18
+    21300038: Emilie_19
+    21300040: Emilie_20
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jacob_0
+      name: Emilie_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,13 +119,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8a2d376c0242be4f9168ef3dc5e3e5e
+      spriteID: 58fb2888b18fa334c8ba313a135c9344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_1
+      name: Emilie_1
       rect:
         serializedVersion: 2
         x: 32
@@ -139,13 +139,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2db50420b037a44c89a066a68cb71d7
+      spriteID: b145b7dd2c35dfa4b8e02a5d0d1c29ff
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_2
+      name: Emilie_2
       rect:
         serializedVersion: 2
         x: 64
@@ -159,13 +159,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c70cf24dcfd41b0489cfe21b1529cadc
+      spriteID: fde8e171d8c53cc468086bb47b13b75c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_3
+      name: Emilie_3
       rect:
         serializedVersion: 2
         x: 96
@@ -179,13 +179,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25cc12375840583459666a9aa1e07eac
+      spriteID: b1eecd4d9299b914e8a9e448313b7e4e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_4
+      name: Emilie_4
       rect:
         serializedVersion: 2
         x: 128
@@ -199,13 +199,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eecfe8db92a5c4469d05315121c76eb
+      spriteID: 6470a12a63256e249afadc8968901d8a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_5
+      name: Emilie_5
       rect:
         serializedVersion: 2
         x: 160
@@ -219,13 +219,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4ffa81e6d196e64c9b40ee94c223e9b
+      spriteID: 1de3dfff41bf473419772551379d25a0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_6
+      name: Emilie_6
       rect:
         serializedVersion: 2
         x: 192
@@ -239,13 +239,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5395c40dedab3ba4cbd50c61d65eda54
+      spriteID: cb72e54f87f7d2249add25b16dc3b37b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_7
+      name: Emilie_7
       rect:
         serializedVersion: 2
         x: 224
@@ -259,13 +259,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47acc09fb05963e4fb3b205b038e909c
+      spriteID: 44a6cc6722001b24f9cbb31e1bbc1e90
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_8
+      name: Emilie_8
       rect:
         serializedVersion: 2
         x: 256
@@ -279,13 +279,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf6cb83930c505545b250dac34573843
+      spriteID: c0fc5db7d176d504d89ec846bfad447b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_9
+      name: Emilie_9
       rect:
         serializedVersion: 2
         x: 288
@@ -299,13 +299,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70331c8333161a042bb8fe0c8b0a93a0
+      spriteID: ab52e876252efb24698054fe52b32d46
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_10
+      name: Emilie_10
       rect:
         serializedVersion: 2
         x: 320
@@ -319,13 +319,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f708d6ffc956c6d41b87298308921b99
+      spriteID: 2e2c4ce328c9d7f40bf20def1ea5d7b3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_11
+      name: Emilie_11
       rect:
         serializedVersion: 2
         x: 352
@@ -339,13 +339,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2cc31e08c4bdd24a8703cc8f525933b
+      spriteID: a88ca1d92c8f95b499efdd67ed6e632a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_12
+      name: Emilie_12
       rect:
         serializedVersion: 2
         x: 384
@@ -359,13 +359,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53304c8cab739a3428be17ac6e9d9598
+      spriteID: 618bf7d4ddcce844eb3deaec631466ce
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_13
+      name: Emilie_13
       rect:
         serializedVersion: 2
         x: 416
@@ -379,13 +379,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a73b32d624cb0c45a11c537f4f68db4
+      spriteID: 9caa1c6f08f1bd841a732e7a2d4580de
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_14
+      name: Emilie_14
       rect:
         serializedVersion: 2
         x: 448
@@ -399,13 +399,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87e3cdba064030843af5fd28f9143d95
+      spriteID: 7f88d7fb9462b2d4a96ddd5a0bff41df
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_15
+      name: Emilie_15
       rect:
         serializedVersion: 2
         x: 480
@@ -419,13 +419,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68c6d1ff3a48cdc4b934f9fae71087e6
+      spriteID: 96d6037df7969b74c8c47ac0be5f936b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_16
+      name: Emilie_16
       rect:
         serializedVersion: 2
         x: 512
@@ -439,13 +439,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b7fffe43a54f1648ba05b51f211bf4f
+      spriteID: f08ed5e0f91c666408066fd5fd0bbe9f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_17
+      name: Emilie_17
       rect:
         serializedVersion: 2
         x: 544
@@ -459,13 +459,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75a7ddff5624647429db8dd9b6ece25d
+      spriteID: 374853e719fa85243a4dfc8f6875cfd0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_18
+      name: Emilie_18
       rect:
         serializedVersion: 2
         x: 576
@@ -479,13 +479,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce97173d6ceabe841bff395e83883435
+      spriteID: be6cc31c1da69444fab259fbfccb7efb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_19
+      name: Emilie_19
       rect:
         serializedVersion: 2
         x: 608
@@ -499,13 +499,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e16bc04bc1688ba43994fe758f7ad01c
+      spriteID: 2f0543401fc0a9d49b7ace276d4decd8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jacob_20
+      name: Emilie_20
       rect:
         serializedVersion: 2
         x: 640
@@ -519,7 +519,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c35580df2fa812440b85e7c959404230
+      spriteID: 9adacfcda164ab5489815f814d91f1e8
       vertices: []
       indices: 
       edges: []
@@ -527,7 +527,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 732f5db29a0b23c478f96f250a14f4c7
+    spriteID: 8edffcf50f712fd4f963741cf3d6a7cc
     vertices: []
     indices: 
     edges: []
