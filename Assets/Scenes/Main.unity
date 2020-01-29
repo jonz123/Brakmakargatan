@@ -205,7 +205,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 130146475}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.78366774, y: -3, z: 0}
+  m_LocalPosition: {x: 0.78366774, y: 5.26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -345,6 +345,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.UI.Slider+SliderEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!1 &490525513
 GameObject:
   m_ObjectHideFlags: 0
@@ -400,6 +402,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -690,6 +694,12 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 95507643937904492, guid: 7fd0f975ca319364e9f2385804e5c03b,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: 9908a71a81ff9c747a64630d89d9c31f,
+        type: 2}
     - target: {fileID: 4722647840285984, guid: 7fd0f975ca319364e9f2385804e5c03b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -737,12 +747,6 @@ PrefabInstance:
       propertyPath: m_Size.x
       value: 0.87331295
       objectReference: {fileID: 0}
-    - target: {fileID: 95507643937904492, guid: 7fd0f975ca319364e9f2385804e5c03b,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 22100000, guid: 9908a71a81ff9c747a64630d89d9c31f,
-        type: 2}
     - target: {fileID: 114657121343748414, guid: 7fd0f975ca319364e9f2385804e5c03b,
         type: 3}
       propertyPath: controlPrefix
@@ -887,6 +891,8 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.UI.Slider+SliderEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!1 &1131931023
 GameObject:
   m_ObjectHideFlags: 0
@@ -1046,6 +1052,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -1156,7 +1164,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1305560043}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.645669, y: -3, z: 0}
+  m_LocalPosition: {x: 2.645669, y: 5.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1217,6 +1225,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -1355,18 +1365,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1016994057706930, guid: 7fd0f975ca319364e9f2385804e5c03b, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1662706771249036, guid: 7fd0f975ca319364e9f2385804e5c03b, type: 3}
       propertyPath: m_Name
       value: P1Fighter
       objectReference: {fileID: 0}
-    - target: {fileID: 4122901456456632, guid: 7fd0f975ca319364e9f2385804e5c03b, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
+    - target: {fileID: 95507643937904492, guid: 7fd0f975ca319364e9f2385804e5c03b,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: a0866a562ed7c124d97e08ec09ee4e7e,
+        type: 2}
     - target: {fileID: 4722647840285984, guid: 7fd0f975ca319364e9f2385804e5c03b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -1414,12 +1422,6 @@ PrefabInstance:
       propertyPath: m_Size.x
       value: 0.94220066
       objectReference: {fileID: 0}
-    - target: {fileID: 95507643937904492, guid: 7fd0f975ca319364e9f2385804e5c03b,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 22100000, guid: a0866a562ed7c124d97e08ec09ee4e7e,
-        type: 2}
     - target: {fileID: 114657121343748414, guid: 7fd0f975ca319364e9f2385804e5c03b,
         type: 3}
       propertyPath: fighterName
@@ -1451,6 +1453,14 @@ PrefabInstance:
       propertyPath: healthMonitors.Array.data[0]
       value: 
       objectReference: {fileID: 1104678417}
+    - target: {fileID: 1016994057706930, guid: 7fd0f975ca319364e9f2385804e5c03b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4122901456456632, guid: 7fd0f975ca319364e9f2385804e5c03b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fd0f975ca319364e9f2385804e5c03b, type: 3}
 --- !u!1 &1706429754
@@ -1508,6 +1518,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -1790,7 +1802,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2142979119}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.3886672, y: -3, z: 0}
+  m_LocalPosition: {x: -1.3886672, y: 5.26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
